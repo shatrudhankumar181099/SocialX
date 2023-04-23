@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">taskforinternship</string>
+    
+    <string name="facebook_app_id">255796313475520</string>
+    <string name="facebook_login_protocol_scheme">fb255796313475520</string>
+    <string name="facebook_client_token">d138bf542c250ac2ad42ced267849298</string>
+</resources>
